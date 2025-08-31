@@ -1,0 +1,70 @@
+http://www.a2resource.com/electrical/management/motronicvr6aba.html
+ Pin,                       "Color, ABA OBD1", Function
+   1,                               Brown/Red, Ground
+   2,                 White/Gray (Injector 2), Cylinder Injector
+   3,                                       -, Cylinder Injector
+   4,                                       -, Cylinder Injector
+   5,                            Yellow/Black, Check Engine Light
+   6,                             Yellow/Blue, Fuel Pump Relay Turn-On
+   7,                               Brown/Red, "Ground (also Auto. Trans. Harness, for PNP Relay)"
+   8,                               Black/Red, "Coil Signal (ABA, VR6 Dist.)"
+   9,                             Black/Brown, Engine Electronics Relay (3) Turn-On
+  10,                    Brown/White or White, "Ground (OBD1 EGR enable)"
+  11,                             Blue/Yellow, Automatic Transmission Control Module
+  12,                                       -, Oxygen Sensor 1 Heater Ground
+  13,                                       -, Oxygen Sensor 2 Signal
+  14,                                    Blue, Coolant Temperature Sensor
+  15,                                  Violet, EGR Temperature Sensor
+  16,                               Brown/Red, Mass Airflow Sensor Ground
+  17,                                     Red, Mass Airflow Sensor Signal
+  18,                              Yellow/Red, Automatic Transmission Control Module
+  19,                                       -, Power for MAP and Acceleration Sensors (late 94+ Corrado)
+  20,                                   White, Oxygen Sensor 1 Signal
+  21,                                  Yellow, Data Link Connector (L-Line)
+  22,                             Green/Black, Tachometer Output
+  23,                                Red/Blue, "Power From Engine Electronics Relay (3) Output (OBD1)"
+  24,                White/Black (Injector 1), Cylinder Injector
+  25,                White/Green (Injector 3), Cylinder Injector
+  26,                 White/Blue (Injector 4), Cylinder Injector
+  27,                                   White, "Idle Air Control Valve (OBD1)"
+  28,                                   White, "Heated Oxygen Sensor Relay Turn-On, Oxygen Sensor 1 Heater Ground (late 94+ Corrado)"
+  29,                                       -, -
+  30,                              Green/Gray, EGR Vacuum Regulator Solenoid Valve (Change-Over Valve- late 94+ Corrado)
+  31,                            Green/Yellow, Evap. Canister Purge Regulator Valve
+  32,                                       -, Acceleration Sensor (late 94+ Corrado)
+  33,                                   Brown, "Sensors Ground (Knock, Coolant, Throttle, Exhaust Gas Temp, Intake Air Temp, RPM, Manifold Pressure, Acceleration Sensors)"
+  34,                                    Gray, Knock Sensor 1
+  35,                                       -, "Leak Detection Pump, Fuel Cut-off Valve (A3)"
+  36,                              Blue/Green, Intake Air Temperature Sensor
+  37,                                   Green, "Air Conditioning ""On"" Switch (At Compressor)"
+  38,                                   Black, Ignition Switch Start/Run Power
+  39,                                    Blue, "Air Conditioning ""On"" Switch (Inside Cabin)"
+  40,               Green/White or Green/Gray, Throttle Position Sensor Signal 1
+  41, Black/Yellow (also cam position sensor), Throttle Position Sensor Power
+  42,                                  Yellow, Oxygen Sensor 1 Sensor Ground (Shared for both sensors- late 94+ Corrado)
+  43,                              Gray/White, Data Link Connector (K-Line)
+  44,                               White/Red, Camshaft Position Sensor
+  45,                                       -, -
+  46,                                       -, Leak Detection Pump (A3)
+  47,                                       -, Oxygen Sensor 2 Heater Ground (late 94+ Corrado)
+  48,                                       -, -
+  49,                                       -, Secondary Air Injection Relay Turn-On
+  50,   "Red/Gray (AIR Relay, Ctrl. No. 111)", (Various- ground-switched)
+  51,                            Violet/White, To Instrument Cluster (MFA MPG)
+  52,                                       -, Coil Pack Pin 4
+  53,                             Black/White, "Idle Air Control Valve (OBD1)"
+  54,                              Red/Yellow, Battery Power
+  55,                             Brown/Black, Ground
+  56,                             Brown/White, Ground
+  57,                                       -, Knock Sensor 2
+  58,                                   White, "Ground (OBD1 Automatic Only), Oxygen Sensor 2 Sensor Ground (OBD2)"
+  59,                                       -, Mass Airflow Sensor
+  60,                                       -, Coil Pack Pin 3
+  61,                                       -, -
+  62,                                       -, "Throttle Position Sensor Signal 2, or MAP Sensor (Corrado)"
+  63,                                       -, -
+  64,                                       -, -
+  65,                            White/Yellow, Vehicle Speed Sensor
+  66,                                       -, Oxygen Sensor 2 Heater Ground
+  67,                                     Red, Engine RPM Sensor Ground
+  68,                                   Green, Engine RPM Sensor Signal
